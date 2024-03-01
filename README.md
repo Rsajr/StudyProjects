@@ -1,14 +1,12 @@
 # StudyProjects
-Repository to publish my studies
+Repository to publish my studies 
+
+<a href="https://rsajr.github.io/StudyProjects/Mobile-Menu/">Mobile Menu - (HTML[Iframe], CSS)</a>
+
+<a href="https://rsajr.github.io/StudyProjects/SeaWorld%20-%20page/">SeaWorld - (HTML, CSS)</a>
 
 
-<a href:"https://rsajr.github.io/StudyProjects/Mobile-Menu/"> Mobile Menu - (HTML[Iframe], CSS) </a>
+<a href="https://rsajr.github.io/StudyProjects/ProjetoCalculadora/">Calculator - (Javascript)</a>
 
-SeaWorld - (HTML, CSS)
-https://rsajr.github.io/StudyProjects/SeaWorld%20-%20page/
 
-Calculator - (Javascript)
-https://rsajr.github.io/StudyProjects/ProjetoCalculadora/
-
-Product Card - (HTML, CSS)
-https://rsajr.github.io/StudyProjects/Product%20preview%20card%20component/
+<a href="https://rsajr.github.io/StudyProjects/Product%20preview%20card%20component/">Product Card - (HTML, CSS)</a>
