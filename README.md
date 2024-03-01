@@ -2,7 +2,7 @@
 Repository to publish my studies
 
 Mobile Menu - (HTML[Iframe], CSS)
-https://rsajr.github.io/StudyProjects/Mobile-Menu/index.html
+www.rsajr.github.io/StudyProjects/Mobile-Menu/index.html
 
 SeaWorld - (HTML, CSS)
 https://rsajr.github.io/StudyProjects/SeaWorld%20-%20page
